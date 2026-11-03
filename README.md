@@ -3,7 +3,6 @@
 https://public.tableau.com/app/profile/varvara.volkova/viz/TerrasasdeBarca2021-12/Principal
 
 #Español version
-Exapmle with Tableau used
 
 Descripción de los datos-Permisos para el arreglo de terrazas de tipo especial (DECRETO 21/5) en espacios públicos de la ciudad de Barcelona. Esto se aplica a los establecimientos de restauración y comercio de alimentos, a los que se les permite instalar un tipo específico de Terraza.
 
