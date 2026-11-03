@@ -1,4 +1,4 @@
-# Tableau-dashboard
+<img width="669" height="894" alt="dashboard" src="https://github.com/user-attachments/assets/c10bf355-c7d5-4a4a-8e9e-ac03ee02a5d8" /># Tableau-dashboard
 
 https://public.tableau.com/app/profile/varvara.volkova/viz/TerrasasdeBarca2021-12/Principal
 
@@ -16,6 +16,7 @@ By district, declared location and permit type — sidewalk, road traffic lanes,
 
 ## Files
 Terrasas de Barca 2021-12.twbx	Packaged workbook (with data) — opens in Tableau Desktop or Tableau Reader
+
 Terrasas de Barca 2021-12.twb	Workbook without embedded data
 
 
