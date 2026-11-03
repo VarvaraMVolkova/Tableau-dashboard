@@ -2,52 +2,23 @@
 
 https://public.tableau.com/app/profile/varvara.volkova/viz/TerrasasdeBarca2021-12/Principal
 
-#Español version
+Interactive dashboard of special-type terrace permits for bars, restaurants and food shops in Barcelona's public spaces (Decree 21/5).
 
-Descripción de los datos-Permisos para el arreglo de terrazas de tipo especial (DECRETO 21/5) en espacios públicos de la ciudad de Barcelona. Esto se aplica a los establecimientos de restauración y comercio de alimentos, a los que se les permite instalar un tipo específico de Terraza.
+▶ Live dashboard: Tableau Public — Terrasses de Barça 2021-12 Stack: Tableau Desktop / Tableau Public Data: Barcelona City Council open data (opendata-ajuntament.barcelona.cat), snapshot of December 2021.
 
-La fuente de los datos es de la página web del Ayuntamiento de Barcelona (opendata-ajuntament.barcelona.cat)
+(add a screenshot of the dashboard here: dashboard.png)
 
-Se utiliza el entorno de datos a Diciembre de 2021.
+What the dashboard answers
+How many special terraces are there in the city in total?
+How are they distributed by district and neighbourhood?
+By district and type of permit — new resolution vs. continued use of a previously issued permit.
+By district, declared location and permit type — sidewalk, road traffic lanes, road service lanes, road + sidewalk, private space for public use, square / Rambla / pedestrian zone.
 
-Dashboard seleccionará el número total de terrazas en la ciudad. Y más detalladamente en tres segmentos de datos:
-- por distritos y distritos
-- por distrito Y tipo de administración
-- por distritos, ubicación declarada de la Terraza y tipo de gestión.
+## Files
+Terrasas de Barca 2021-12.twbx	Packaged workbook (with data) — opens in Tableau Desktop or Tableau Reader
+Terrasas de Barca 2021-12.twb	Workbook without embedded data
 
-Tipo de control:
-- nueva resolución
-- uso continuado de la emitida anteriormente
 
-Ubicacio
-Calçada carrils de circulació
-Calçada carrils de serveis
-Combinació calçada i vorera
-Espai privat d'ús públic
-PI/Rbla/espai peatonals
-Vorera
+Versión en español
 
-------
-#English version
-Data description - Permits for the construction of special type terraces (DECREE 21/5) in public places in Barcelona. This applies to catering and food trade enterprises that are allowed to build terraces of a certain type.
-
-The data source is open data from the Barcelona City Administration website (opendata-ajuntament.barcelona.cat)
-
-The database was used as of December 2021.
-
-The dashboard shows the total number of terraces in the city. And additionally, in more detail on three data slices.:
-- by counties and districts
-- by district and Type of government
-- according to the districts, the declared location of the terrace and the Type of management.
-
-Type of management:
-- new resolution
-- continued use of previously issued
-
-Placement options:
-Traffic lanes on the driveway
-Service lanes on the driveway
-The combination of road and sidewalk
-Private space for public use
-Square / Rambla / pedestrian zone
-Sidewalk
+Cuadro de mando sobre los permisos de terrazas de tipo especial (Decreto 21/5) en el espacio público de Barcelona, a partir de datos abiertos del Ayuntamiento (diciembre de 2021). Muestra el número total de terrazas y su detalle por distrito y barrio, por tipo de gestión (nueva resolución / uso continuado) y por ubicación declarada (acera, calzada, espacio privado de uso público, plaza / rambla / zona peatonal).
